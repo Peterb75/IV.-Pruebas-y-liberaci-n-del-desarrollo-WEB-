@@ -1,0 +1,22 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+form { max-width: 600px; }
+label { display: block; margin-top: 10px; }
+input, textarea { width: 100%; padding: 8px; }
+#preview { display: flex; flex-wrap: wrap; }
+#preview img { max-width: 150px; margin: 5px; }
+
+
+.ImagenMostrar{
+    height: 25%;
+    width: 25%;
+}
+
+.articulo { 
+    margin-bottom: 30px; padding: 1x; border: 1px solid #ccc; 
+}
+    
+.autor { 
+    font-style: italic;
+}
+
+
